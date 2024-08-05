@@ -32,8 +32,7 @@ Coleta de Informações do Usuário   :triangular_ruler:
 
 O código começa coletando informações básicas do usuário, como nome, idade e cidade, e exibe uma saudação personalizada.
 ##
-Importação de Bibliotecas
-Em seguida, o código importa as bibliotecas necessárias para manipulação de dados, visualização e análise de sentimentos.
+
 ##
 
 # Importação de Bibliotecas
